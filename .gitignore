@@ -1,0 +1,11 @@
+# MATLAB auto-save files
+*.asv
+
+# MATLAB compiled files
+*.mex*
+*.p
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
